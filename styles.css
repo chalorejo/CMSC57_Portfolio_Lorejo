@@ -3,7 +3,7 @@
 :root {
     --hue-color: 242;
 
-    --skin-color: hsl(342, 92%, 46%);
+    --skin-color: hsl(273, 100%, 50%);
     --mirage-color: hsl(210, 10%, 23%);
     --title-color: hsl(var(--hue-color), 8%, 95%);
     --text-color: hsl(var(--hue-color), 8%, 85%);
@@ -143,7 +143,7 @@ button { cursor: pointer; }
 /* Main - Home */
 
 .main { margin-left: 100px; }
-.home { background: url('https://preview.redd.it/heavy-alpha-wolf-vibes-v0-gxql67okq80c1.jpg?width=640&crop=smart&auto=webp&s=becf2c6c653610fcece34fb3ff811fe012a6fc25'); background-size: cover; background-position: center center; height: 100vh; }
+.home { background: url('https://cmsc57-pictures.s3.ap-southeast-1.amazonaws.com/Untitled+design+(4).png'); background-size: cover; background-position: center center; height: 100vh; }
 .home-container { position: relative; height: 100%; align-items: center; }
 .home-social { position: absolute; top: 1.8rem; left: 0; display: flex; align-items: center; column-gap: 3.5rem; }
 .home-social-follow { font-weight: var(--font-medium); position: relative; }
